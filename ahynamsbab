@@ -2,6 +2,10 @@
   "Pakgenm": [
     {
       "kgenm": "org.studiomieani.ahynamsbab",
+      "imagesola": "https://pbs.twimg.com/profile_images/475464851574124544/_KG0BZzw_400x400.jpeg",
+      "effaceText": "مشهد",
+      "effaceText1": "وفاة",
+      "effaceText2": "شاهد",
       "B": "6300978111",
       "B1": "6300978111",
       "I": "1033173712",
@@ -12,16 +16,13 @@
       "media_visb_v_g": "g",
       "url_privacy": "",
       "unpdit_app_g": "",
-      "effaceText": "",
-      "effaceText1": "",
-      "effaceText2": "",
       "jsonpassword": "hiyouness"
     }
   ],
   "grob": [
     {
-      "name": "جميع حلقات امونه المزيونه",
-      "image": "https://a.top4top.net/p_895aarki1.png",
+      "name": "جميع حلقات اضحك مع النمس",
+      "image": "https://pbs.twimg.com/profile_images/475464851574124544/_KG0BZzw_400x400.jpeg",
       "url": "https://raw.githubusercontent.com/aminfrirgi/don/master/ahynamsbab"
     }
   ]
